@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperconnect",
+        "uuid": 14557724,
+        "checksum": "2aq4sm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
